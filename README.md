@@ -1,1 +1,1 @@
-# terragang
+# Terraform template for AWS resources
